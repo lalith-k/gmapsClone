@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@maplibre/maplibre-gl-directions": "^0.7.0",
+    "maplibre-gl": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
